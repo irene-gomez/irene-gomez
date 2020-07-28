@@ -7,7 +7,7 @@ const irene = {
   level: 'junior',
   challenge: {
     currently: 'I am doing personal projects focused on learn typescript',
-    next: 'Learn testing'
+    next: 'Learn new framework'
   }
 }
 ```
