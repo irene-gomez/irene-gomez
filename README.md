@@ -1,4 +1,4 @@
-### Hi there, I'm Irene 👋
+# Hi there, I'm Irene 👋🏻
 I'm front-end developer junior.
 ```js
 const irene = {
@@ -13,7 +13,7 @@ const irene = {
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irene-gomez&layout=compact&theme=algolia)](https://github.com/irene-gomez/github-readme-stats)
 
-### 📫 Get in touch
+# 📫 Get in touch
 - [Portfolio](http://irenegf.com/) 🎨
 - [Mail](mailto:irene@irenegf.com) ✉️
 - [Twitter](https://twitter.com/igf_osiris) 🐦
