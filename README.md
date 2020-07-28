@@ -18,13 +18,13 @@ const irene = {
   <a href="http://irenegf.com/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%239146FF.svg?&style=for-the-badge&logo=web&logoColor=white" />
   </a>
-  <a href="mailto:irene@irenegf.com" target="_blank">
+  <a href="mailto:irene@irenegf.com">
     <img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/irenegf/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/igf_osiris">
+  <a href="https://twitter.com/igf_osiris" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   
