@@ -6,7 +6,7 @@ const irene = {
   tools: [React, Ember, Gulp],
   level: 'junior',
   challenge: {
-    actual: 'I am doing personal projects focused on learn typescript',
+    currently: 'I am doing personal projects focused on learn typescript',
     next: 'Learn testing'
   }
 }
