@@ -14,7 +14,7 @@ const irene = {
 
 ### 📫 Get in touch
 - [Portfolio](http://irenegf.com/)
-- [Mail](irene@irenegf.com)
+- [Mail](mailto:irene@irenegf.com)
 - [Twitter](https://twitter.com/igf_osiris)
 - [LinkedIn](https://www.linkedin.com/in/irenegf/)
 
