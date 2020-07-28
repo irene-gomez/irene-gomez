@@ -2,8 +2,8 @@
 I'm front-end developer junior.
 ```js
 const irene = {
-  code: [Javascript, HTML, CSS, SCSS],
-  tools: [React, Ember, Gulp],
+  code: ['Javascript', 'HTML', 'CSS', 'SCSS'],
+  tools: ['React', 'Ember', 'Gulp'],
   level: 'junior',
   challenge: {
     currently: 'I am doing personal projects focused on learn typescript',
