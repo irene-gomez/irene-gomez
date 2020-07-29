@@ -33,7 +33,7 @@ const irene = {
 
 
 <!--
-iconos: https://simpleicons.org/
+icons: https://simpleicons.org/
 
 - [Portfolio](http://irenegf.com/) 🎨
 - [Mail](mailto:irene@irenegf.com) ✉️
